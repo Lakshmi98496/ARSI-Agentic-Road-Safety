@@ -7,7 +7,7 @@ ARSI is a decentralized multi-agent system built to solve the "Static Map Gap." 
 ## 📺 System Simulation Demo
 > **Visualizing the Multi-Agent Pipeline in Action**
 
-Screenshot_demo
+[Screenshot_demo]https://github.com/Lakshmi98496/ARSI-Agentic-Road-Safety/commit/f91e4fea111c99eec26091dd78788b0d29209f5d
 
 *The screenshot above demonstrates the transition from a user report to Agentic validation and the final severity calculation pushed to the rider's HUD.*
 
@@ -23,7 +23,7 @@ Screenshot_demo
 * **Frontend:** Flutter HUD Prototype
 
 ## 📂 Project Structure
-* `main.py`: Core logic for the Agentic Pipeline simulation.
+* `arsi_simulation.py`: Core logic for the Agentic Pipeline simulation.
 * `README.md`: Documentation and Architecture Overview.
 
 ---

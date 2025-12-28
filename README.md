@@ -1,5 +1,5 @@
 # ARSI: Agentic Road Safety Intelligence
-**Track 1: Agentic AI | Real-Time Hazard Reasoning for Two-Wheelers**
+Track 1: Agentic AI 
 
 ## 🚀 Overview
 ARSI is a decentralized multi-agent system built to solve the "Static Map Gap." Using **Gemini 1.5 Flash**, it transforms user-reported hazards into verified, risk-assessed navigation data. The system doesn't just show a map; it **reasons** about whether a pothole is a threat to a bike versus a car.
